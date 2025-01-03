@@ -1,4 +1,4 @@
-# CodePhoneCountry
+# Code Phone Country In JSON
 List Code Phone Country In JSON
 
 1. Run Go (go run .)
