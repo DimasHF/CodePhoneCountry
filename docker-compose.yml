@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  codephone-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: codephone-server
+    ports:
+      - "3010:3010"
+    restart: always
